@@ -1,0 +1,12 @@
+.main {
+    width: 99%;
+    float: left;
+    margin: 2px auto;
+}
+.one{
+    width: 20%;
+    height: auto;
+   
+    float: left;
+    justify-content: space-around;
+}
